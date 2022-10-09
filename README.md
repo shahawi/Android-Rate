@@ -15,7 +15,7 @@ ${latest.version} is ![Maven Badges](https://maven-badges.herokuapp.com/maven-ce
 
 ```groovy
 dependencies {
-  compile 'com.github.hotchemi:android-rate:{latest.version}'
+  implementation group: 'com.github.hotchemi', name: 'android-rate', version: '1.0.1'
 }
 ```
 
